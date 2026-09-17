@@ -16,7 +16,7 @@ Executive dashboard tracking sales volume, demographic spending tiers, and subsc
 
 👉 **[View Live Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNGQwM2E4ZTAtMjY3MC00MzE3LWEzOTYtOWZlZTk4ZjA0Mzg1IiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9)**
 
-![Dashboard Preview](dashboard/Customer_behavior_dashboard.png)
+![Dashboard Preview](dashboard/customer_behavior_dashboard.png)
 
 --- 
 
